@@ -1,0 +1,15 @@
+.title {
+    font-weight:bold;
+    text-align: center;
+    font-size:35px;
+
+    margin-bottom:3px;
+}
+.subtitle {
+    text-align: center;
+    font-size: 25px;
+
+}
+.underline {
+    text-decoration: underline;
+}
