@@ -1,0 +1,12 @@
+.text {
+    font-weight:bold;
+    font-size: 30px;
+    font-family:tahoma;
+    display:inline-block;
+    transition: box-shadow 0.15s;
+
+}
+.text:hover {
+    box-shadow: 3px 3px 10px grey;
+    
+}
