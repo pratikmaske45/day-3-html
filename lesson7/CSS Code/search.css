@@ -1,0 +1,13 @@
+input{
+    font-size:16px;
+    border-radius:8px;
+    padding-top:12px;
+    padding-bottom:12px;
+    border-style: solid;
+    border-width: 2px;
+    border-color:rgb(200,200,200);
+    padding-right:15px;
+    padding-left:15px;
+    font-weight:bold;
+
+}
