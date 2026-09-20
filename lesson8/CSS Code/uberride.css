@@ -1,0 +1,60 @@
+.title{
+    font-size: 32px;
+    margin-bottom:0;
+    margin-top:0;
+    font-family: arial;
+
+}
+.location {
+                       
+   display: block;
+  background-color: rgb(199, 190, 190);
+  border: none;
+  margin-bottom: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 16px;
+  width: 400px;
+  margin-top: 20px;
+
+
+ }
+ .destination {
+    display: block;
+  background-color: rgb(199, 190, 190);
+  border: none;
+  margin-bottom: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 16px;
+  width: 400px;
+ }
+
+.request-now{background-color: black;
+  color: white;
+  border: none;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-size: 16px;
+  margin-right: 10px;
+   margin-top: 30px;
+   cursor: pointer;
+}
+
+.schedule {
+ background-color: rgb(199, 190, 190);
+  border: none;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-size: 16px;
+  cursor: pointer;
+  
+}
