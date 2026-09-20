@@ -1,0 +1,42 @@
+p {
+    margin-top:0;
+    margin-bottom:0;
+    font-family: arial;
+    color:rgb (100,100,100);
+
+}
+
+.email {
+    font-size:16px;
+
+}
+input{
+    border-width:2px;
+    border-style:solid;
+    width: 400px;
+    margin-top:8px;
+    font-size:22px;
+    border-color: rgb(100,100,100);
+    border-radius:5px;
+    margin-bottom:20px;
+    
+
+}
+
+.policy {
+    margin-top: 12px;
+    font-size:16px;
+}
+.agree {
+    background-color: rgb(10,102,194);
+    color:white;
+    margin-top:11px;
+    text-align: center;
+    border-radius: 30px;
+    padding-top:16px;
+    padding-bottom: 16px;
+     border:none;
+    font-size:20px;
+    width:400px;
+
+}
